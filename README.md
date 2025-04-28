@@ -46,5 +46,6 @@ Reina Valera 1960 1 Corintios 13:1-3</code></pre>
 <br />
 ```
 
+Para ver su contenido da clic en:
 
-
+[Abre el archivo HTML](WebUpd8%20codigo%20v2%20versiculos%20largos.html)
